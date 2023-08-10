@@ -7,7 +7,7 @@ import org.springframework.stereotype.Service;
 @Service
 public class GetNetRequisicao {
     /*
-    Classe ocultada a pedido do Santander
+    Classe ocultada a pedido da GetNet
      */
 
 }
